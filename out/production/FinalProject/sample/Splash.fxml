@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="rootPane" prefHeight="400.0" prefWidth="600.0" styleClass="background" stylesheets="@Themes.css" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Splash">
+   <children>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="200.0" layoutY="14.0">
+         <image>
+            <Image url="@event.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="262.0" layoutY="212.0" prefHeight="38.0" prefWidth="76.0" styleClass="label-AppName" stylesheets="@Themes.css" text="Venté" />
+   </children>
+</AnchorPane>
