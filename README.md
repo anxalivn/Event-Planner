@@ -1,2 +1,2 @@
 # Final Project for GUI Programming 
- App Designed for scheduling your wedding. 
+Event management involves planning, organizing, spreading the word, registering the concerned parties with receipt of fee payment and finally conducting the event. There are many aspects of planning than the ones mentioned above, such as, getting volunteers, acquiring sponsors, collecting funds, setting up the venue if need be, campaigning, creating banners, spreading the word etc.
